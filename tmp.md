@@ -2,8 +2,7 @@
 
 This is the house that Jack built.
 
-* Bullet
-
-* Bull bull
-  bull bull.
-  
+* GitHub supports
+  multiline bullets.
+* Lists must not have empty lines between the bullets to appear as a single list.
+** Sub-bullet
